@@ -1,0 +1,12 @@
+Snickers Bar,0.99,12
+CocaCola,1.99,14
+abc,1.98,7
+Pringles,3.99,4
+Canada Dry,2.49,5
+Potato Chip,3.49,97
+Pepsi,1.99,6
+Cheetos,2.99,-100
+Ayran,4.5,10
+Mountain Dew,5.99,15
+Gum,0.49,10
+Salgam,3.5,2
